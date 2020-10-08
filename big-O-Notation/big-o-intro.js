@@ -22,7 +22,7 @@ function addUpTo(n) {
     return total
 }
 
-// 2. f(n) could be quadratic (f(n) = n squared) - as n grows the runtime scales related to the square of n
+// 2. f(n) could be quadratic (f(n) = n²) - as n grows the runtime scales related to the square of n
 
 // quadratic
 function printAllPairs(n) {
