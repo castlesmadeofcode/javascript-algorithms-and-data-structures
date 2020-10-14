@@ -7,7 +7,7 @@
 // is less than or equal to one
 
 
-// Big-O Recap:
+//Big-O Recap:
 // 1. To analyze the performance of an algorithm, we use Big O Notaiton
 // 2. Big O Notation can give us a high level understanding of the time or
 //  space complexity of an algorithm
