@@ -1,6 +1,5 @@
 // Section 2:11 - Logs and Section Recap
 
-
 // Logarithm:
 // The logarithm of a number roughly measures the number of
 // times you can divide that number by 2 before you get a value that
