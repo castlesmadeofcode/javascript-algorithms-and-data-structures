@@ -1,5 +1,5 @@
 
-// Section 4: 18 - Introduction to Problem Solving
+// Section 4:18 - Introduction to Problem Solving
 
 // OBJECTIVES:
 // Define what an algorithm is
