@@ -1,5 +1,5 @@
 
-//  
+// Section 4:22 - Step 4: Solve Or Simplify
 
 // SOLVE THE PROBLEM
 // If you can't...
@@ -21,7 +21,7 @@ function charCount(str) {
     var char = str[i].toLowerCase()
     //if the char is a number/letter AND key in object, add one to count
     if (result[char] > 0) {
-      result[char]++;
+      result[char]++
     }
     //if the char is a number/letter AND is not in object, add it and set value to 1
     else {
